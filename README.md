@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kartik bokadia</h1>
 <h3 align="center">A passionate frontend developer | javascript developer from India</h3>
 
-- 🔭 I’m currently working on **picture posting timeline project**
+- 🔭  I’m currently working on **picture posting timeline project**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱  I’m currently learning **ReactJs, NodeJs**
 
-- 💬 Ask me about **Javascript, HTML/CSS, Web Development**
+- 💬  Ask me about **Javascript, HTML/CSS, Web Development**
 
-- 📫 How to reach me **kartikbokadia@gmail.com**
+- 📫  How to reach me **kartikbokadia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing](https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing)
+- 📄  Know about my experiences [https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing](https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
