@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik bokadia</h1>
+<h1 align="center">Hi <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40"> I'm Kartik bokadia</h1>
 <h3 align="center">A passionate frontend developer | javascript developer from India</h3>
 
 - 🔭 &nbsp; I’m currently working on **picture posting timeline project**
