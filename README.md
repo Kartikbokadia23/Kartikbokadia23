@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40"> I'm Kartik bokadia</h1>
 <h3 align="center">A passionate frontend developer | javascript developer from India</h3>
 
-- 🔭 &nbsp; I’m currently working in **GKM IT Pvt Ltd**
+- 🔭 &nbsp; I’m currently working in **Acko General Insurance**
 
-- 🌱 &nbsp; I’m currently learning **NodeJs**
+- 🌱 &nbsp; I’m currently learning **App Development**
 
 - 💬 &nbsp; Ask me about **ReactJS, Javascript, HTML/CSS, Web Development**
 
