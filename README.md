@@ -1,38 +1,85 @@
-<h1 align="center">Hi <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40"> I'm Kartik bokadia</h1>
-<h3 align="center">A passionate frontend developer | javascript developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Kartik Bokadia</h1>
+<h3 align="center">🚀 Frontend Engineer | Passionate about building performant, scalable, and modern web apps</h3>
 
-- 🔭 &nbsp; I’m currently working in **Acko General Insurance**
+---
 
-- 🌱 &nbsp; I’m currently learning **App Development**
+### 💡 About Me
+- 🔭 Currently working at **Acko General Insurance**
+- 🌱 Deep-diving into **App Development** & **System Design**
+- ⚡ Skilled in **Next.js, React.js, TypeScript, JavaScript, API Gateway, Nginx**
+- 📊 Exploring **Metabase** for dashboards & data visualization
+- 🎨 Love clean UI/UX — experimenting with **shadcn/ui, Tailwind, and modern design systems**
+- 💬 Ask me about **Frontend Development, State Management, API Integration, Cloud Deployment**
+- 📫 Reach me at: **kartikbokadia@gmail.com**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1ASxYMyLjQTBu91xZ1Ig4F78mrMQKQ1z6/view?usp=sharing)**  
 
-- 💬 &nbsp; Ask me about **ReactJS, Javascript, HTML/CSS, Web Development**
+---
 
-- 📫 &nbsp; How to reach me **kartikbokadia@gmail.com**
-
-- 📄 &nbsp; Know about my experiences [https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing](https://drive.google.com/file/d/1L4pGDV0VEi1xaqLFj-5gRoDdUmJx4cRU/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/kartikbokadia28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kartikbokadia28" height="30" width="40" /></a>
-<a href="https://dribbble.com/kartik_bokadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="kartik_bokadia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikbokadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kartikbokadia" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kartikbokadia28" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dribbble.com/kartik_bokadia" target="blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/kartikbokadia" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1ASxYMyLjQTBu91xZ1Ig4F78mrMQKQ1z6/view?usp=sharing" target="blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722.svg?&style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;&nbsp;  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> &nbsp;&nbsp; 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;&nbsp; </p>
+---
 
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Frontend & Frameworks
+<p>
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/> &nbsp;
+  <img title="React.js" src="https://skillicons.dev/icons?i=react" height="40"/> &nbsp;
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="40"/> &nbsp;
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40"/> &nbsp;
+  <img title="Redux" src="https://skillicons.dev/icons?i=redux" height="40"/> &nbsp;
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40"/> &nbsp;
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40"/> &nbsp;
+  <img title="Sass" src="https://skillicons.dev/icons?i=sass" height="40"/> 
+</p>
+
+#### ⚙️ Backend & APIs
+<p>
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40"/> &nbsp;
+  <img title="Express.js" src="https://skillicons.dev/icons?i=express" height="40"/> &nbsp;
+  <img title="Nginx" src="https://skillicons.dev/icons?i=nginx" height="40"/> &nbsp;
+  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" height="40"/> &nbsp;
+  <img title="API Gateway" src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-2048x1152-vr5mrbk9.png" height="40"/>
+</p>
+
+#### 📊 Data & Analytics
+<p>
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40"/> &nbsp;
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40"/> &nbsp;
+  <img title="Metabase" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="40"/>
+</p>
+
+#### 🎨 UI / Design
+<p>
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/> &nbsp;
+  <img title="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai" height="40"/> &nbsp;
+  <img title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40"/>
+</p>
+
+#### 🔧 DevOps & Tools
+<p>
+  <img title="Git" src="https://skillicons.dev/icons?i=git" height="40"/> &nbsp;
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/> &nbsp;
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" height="40"/> &nbsp;
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40"/> &nbsp;
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="40"/> &nbsp;
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" height="40"/>
+</p>
+
+---
+
+✨ _Always exploring, always learning. Building web apps that make an impact._  
